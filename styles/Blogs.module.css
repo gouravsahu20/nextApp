@@ -1,0 +1,24 @@
+.blogtitle{
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.blogitem{
+    margin: 20px;
+    cursor: pointer;
+}
+
+.blogtitle:hover{
+    color: darkslateblue;
+    text-decoration: underline;
+}
+
+.blogsparent{
+    padding: 5px;
+}
+
+.heading{
+    text-align: center;
+    font-size: 2rem;
+}
+
